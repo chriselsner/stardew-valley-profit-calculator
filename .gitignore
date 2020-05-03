@@ -1,2 +1,8 @@
 # macOS files
 .DS_Store
+
+# raw data files
+data/raw/*
+
+# don't ignore .gitkeep
+!.gitkeep
